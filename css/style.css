@@ -135,6 +135,9 @@ p {
   align-self: flex-end;
   display: flex;
   align-items: center;
+  font-size: 16px;
+  line-height: 16px;
+  letter-spacing: -1%;
 }
 
 .card__more::before {
